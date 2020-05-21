@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, Nav } from './styles';
 import { FcLikePlaceholder, FcReading, FcHome } from 'react-icons/fc';
 
-const SIZE = '34px';
+const SIZE = '32px';
 
 export const NavBar = () => {
   return (
