@@ -17,8 +17,8 @@ export const ImgWrapper = styled.div`
 //56.25%
 export const Img = styled.img`
   ${fadeIn()}
-  box-shadow: 2px 5px 5px rgba(0, 0, 0, 0, 0.13);
-  height: 90%;
+  box-shadow: rgba(0, 0, 0, 0.13) 2px 5px 5px;
+  height: 100%;
   object-fit: cover;
   position: absolute;
   top: 0;
